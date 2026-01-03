@@ -1,0 +1,5 @@
+{
+  "name": "Gestión de Espacios UAM-X",
+  "description": "Plataforma para la administración, reserva y reporte de incidencias en espacios universitarios (Edificios O, P, Q).",
+  "requestFramePermissions": []
+}
