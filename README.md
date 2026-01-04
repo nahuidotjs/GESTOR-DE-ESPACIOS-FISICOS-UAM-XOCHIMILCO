@@ -7,7 +7,7 @@
 ## 🎥 Demo – Gestor de Espacios Físicos
 
 <div align="center">
-  <img src="assets/GESTOR%20DE%20ESPACIOS%20FISICOS.gif"
+  <img src="https://github.com/nahuidotjs/GESTOR-DE-ESPACIOS-FISICOS-UAM-XOCHIMILCO/blob/9bde53d9691e0531b691808ee89c56f67d7e3c5a/GESTOR%20DE%20ESPACIOS%20FISICOS.gif?raw=true"
        alt="Gestor de Espacios Físicos - Demo"
        width="900" />
 </div>
